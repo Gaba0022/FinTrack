@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Backend.Application.DTOs.Crypto;
+using Backend.Application.DTOs.PriceAlert;
 using Backend.Application.DTOs.PriceHistory;
 using Backend.Application.DTOs.Users;
 using Backend.Domain.Entities;
@@ -22,5 +23,10 @@ public class MappingProfile: Profile
         CreateMap<PriceHistory, ReadPriceHistoryDTO>()
                 .ForMember(dest => dest.CryptoSymbol, opt => opt.MapFrom(src => src.Crypto.Symbol))
                 .ForMember(dest => dest.CryptoName, opt => opt.MapFrom(src => src.Crypto.Name));
+
+
+        CreateMap<CreatePriceAlertDTO, PriceAlert>();
+        CreateMap<UpdatePriceAlertDTO, PriceAlert>();
+        CreateMap<PriceAlert, ReadPriceAlertDTO>();
     }
 }

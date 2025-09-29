@@ -3085,11 +3085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

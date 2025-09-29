@@ -23,6 +23,9 @@ builder.Services.AddScoped<CryptoService>();
 builder.Services.AddScoped<PriceHistoryRepository>();
 builder.Services.AddScoped<PriceHistoryService>();
 
+builder.Services.AddScoped<PriceAlertRepository>();
+builder.Services.AddScoped<PriceAlertService>();
+
 builder.Services.AddScoped<IJwtService>(_ => new JwtService(builder.Configuration));
 
 // AutoMapper

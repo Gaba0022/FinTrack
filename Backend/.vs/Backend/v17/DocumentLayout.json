@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\application\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\services\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\application\\services\\jwt\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\services\\jwt\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\presentation\\controllers\\pricealertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:presentation\\controllers\\pricealertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\application\\services\\pricealertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\services\\pricealertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\presentation\\controllers\\pricehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:presentation\\controllers\\pricehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\infrastructure\\persistence\\repositories\\pricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:infrastructure\\persistence\\repositories\\pricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\domain\\interfaces\\ipricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:domain\\interfaces\\ipricealertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\application\\services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\services\\cryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\infrastructure\\persistence\\repositories\\pricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:infrastructure\\persistence\\repositories\\pricehistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\application\\dtos\\pricealert\\updatepricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\dtos\\pricealert\\updatepricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\application\\services\\pricehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\services\\pricehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\application\\dtos\\pricealert\\createpricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\dtos\\pricealert\\createpricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrackcriptomoedas\\backend\\domain\\entities\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:domain\\entities\\pricehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\application\\dtos\\pricealert\\readpricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:application\\dtos\\pricealert\\readpricealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|c:\\users\\gabri\\desktop\\projetos\\fintrack\\backend\\domain\\entities\\pricealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2FFBE8D-3B5A-42E0-9768-70E749A65224}|Backend.csproj|solutionrelative:domain\\entities\\pricealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\Jwt\\JwtService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Jwt\\JwtService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\Jwt\\JwtService.cs",
-              "RelativeToolTip": "Application\\Services\\Jwt\\JwtService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:29:52.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\Jwt\\IJwtService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\Jwt\\IJwtService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\Jwt\\IJwtService.cs",
-              "RelativeToolTip": "Application\\Services\\Jwt\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:29:35.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-29T17:25:39.992Z",
+              "WhenOpened": "2025-09-29T18:39:34.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Title": "PriceAlertController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Presentation\\Controllers\\PriceAlertController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\PriceAlertController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Presentation\\Controllers\\PriceAlertController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\PriceAlertController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:23:51.958Z",
+              "WhenOpened": "2025-09-29T18:35:13.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PriceHistoryController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Presentation\\Controllers\\PriceHistoryController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\PriceHistoryController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Presentation\\Controllers\\PriceHistoryController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\PriceHistoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PriceAlertService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\Services\\PriceAlertService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PriceAlertService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\Services\\PriceAlertService.cs",
+              "RelativeToolTip": "Application\\Services\\PriceAlertService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:23:10.366Z",
+              "WhenOpened": "2025-09-29T18:34:15.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceAlertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\PriceAlertRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:33:25.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Presentation\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Presentation\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:22:55.854Z",
+              "WhenOpened": "2025-09-29T18:28:57.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CryptoService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\CryptoService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\CryptoService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\CryptoService.cs",
-              "RelativeToolTip": "Application\\Services\\CryptoService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IPriceAlertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Domain\\Interfaces\\IPriceAlertRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPriceAlertRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Domain\\Interfaces\\IPriceAlertRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPriceAlertRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:15:01.688Z",
+              "WhenOpened": "2025-09-29T18:28:04.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PriceHistoryService.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\PriceHistoryService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\PriceHistoryService.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Application\\Services\\PriceHistoryService.cs",
-              "RelativeToolTip": "Application\\Services\\PriceHistoryService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Title": "ReadPriceAlertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\ReadPriceAlertDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PriceAlert\\ReadPriceAlertDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\ReadPriceAlertDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PriceAlert\\ReadPriceAlertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:14:50.058Z",
+              "WhenOpened": "2025-09-29T18:26:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdatePriceAlertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\UpdatePriceAlertDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PriceAlert\\UpdatePriceAlertDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\UpdatePriceAlertDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PriceAlert\\UpdatePriceAlertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:25:54.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PriceHistoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Infrastructure\\Persistence\\Repositories\\PriceHistoryRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\PriceHistoryRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Infrastructure\\Persistence\\Repositories\\PriceHistoryRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\PriceHistoryRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyIAAAAFAAAAAAAAAA==",
+              "Title": "CreatePriceAlertDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\CreatePriceAlertDTO.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\PriceAlert\\CreatePriceAlertDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Application\\DTOs\\PriceAlert\\CreatePriceAlertDTO.cs",
+              "RelativeToolTip": "Application\\DTOs\\PriceAlert\\CreatePriceAlertDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T17:08:47.558Z",
+              "WhenOpened": "2025-09-29T18:25:46.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "PriceHistory.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Domain\\Entities\\PriceHistory.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\PriceHistory.cs",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrackCriptoMoedas\\Backend\\Domain\\Entities\\PriceHistory.cs",
-              "RelativeToolTip": "Domain\\Entities\\PriceHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Title": "PriceAlert.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Domain\\Entities\\PriceAlert.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PriceAlert.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\Projetos\\FinTrack\\Backend\\Domain\\Entities\\PriceAlert.cs",
+              "RelativeToolTip": "Domain\\Entities\\PriceAlert.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T16:14:18.038Z",
+              "WhenOpened": "2025-09-29T18:23:51.12Z",
               "EditorCaption": ""
             }
           ]
