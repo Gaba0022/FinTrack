@@ -1,12 +1,9 @@
-name: Continues Integration
+name: Continuous Integration
 
-on: 
-  pull_request:
-    branches:
-      - main
+on: pull_request
 
 jobs:
-  continues-integration:
+  ci:
     runs-on: windows-2022
 
     steps:
@@ -17,9 +14,15 @@ jobs:
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '8.0.x'
-      
-      - name: Restaurar dependências
-        run: dotnet restore ./Backend/Backend.csproj
 
+      - name: Restaurar dependências
+        run: dotnet restore ./FinTrack/Backend/Backend.csproj
+        working-directory: ./FinTrack
+        
       - name: Compilar o projeto
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build ./FinTrack/Backend/Backend.csproj --configuration Release --no-restore
+        working-directory: ./FinTrack
+
+      - name: Executar testes
+        run: dotnet test ./FinTrack/Backend/Backend.csproj --no-build --verbosity normal
+        working-directory: ./FinTrack
