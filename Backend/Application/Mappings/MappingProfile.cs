@@ -30,3 +30,7 @@ public class MappingProfile: Profile
         CreateMap<PriceAlert, ReadPriceAlertDTO>();
     }
 }
+
+
+
+
